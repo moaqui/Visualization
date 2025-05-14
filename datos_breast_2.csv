@@ -1,10 +1,10 @@
-habitat;age;radius;perimeter;area;smoothness;density_before;density_after;diagnosis
-rural;adult;7.76;47.92;181;24.54;0.00025;0.05263;benign
-rural;adult;13.01;82.01;526.4;22.22;0.001852;0.06251;benign
-rural;adult;14.29;90.3;632.6;16.82;0.00625;0.06429;benign
-rural;adult;14.26;91.22;633.1;18.17;0.01374;0.06576;benign
-rural;adult;11.87;76.83;432;21.54;0.02386;0.06613;benign
-rural;adult;13.9;88.97;599.4;16.62;0.01339;0.06828;benign
+habitat,age,radius,perimeter,area,smoothness,density_before,density_after,diagnosis
+rural,adult,7.76,47.92,181,24.54,0.00025,0.05263,benign
+rural,adult,13.01,82.01,526.4,22.22,0.001852,0.06251,benign
+rural,adult;14.29,90.3,632.6,16.82,0.00625,0.06429;benign
+rural,adult,14.26,91.22,633.1,18.17,0.01374,0.06576,benign
+rural,adult,11.87,76.83,432,21.54,0.02386,0.06613,benign
+rural,adult,13.9,88.97,599.4,16.62,0.01339,0.06828,benign
 rural;adult;11.32;71.76;395.7;27.08;0.003125;0.06883;benign
 rural;adult;12.05;78.75;447.8;22.72;0.02978;0.06935;benign
 rural;adult;9.72;60.73;288.1;18.22;0.00068;0.0695;benign
